@@ -1,2 +1,2 @@
 # exercicios-cap
-Exercícios realizados ao longo da disciplina Construção de Algoritmos e Programação.
+Exercícios em linguagem C realizados ao longo da disciplina Construção de Algoritmos e Programação (CAP).
